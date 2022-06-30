@@ -14,7 +14,7 @@ namespace GatheringSkill
     {
         internal const string ModName = "GatheringSkill";
         internal const string ModVersion = "1.0.0";
-        internal const string Author = "grisch";
+        internal const string Author = "ARGA";
         private const string ModGUID = Author + "." + ModName;
         private static string ConfigFileName = ModGUID + ".cfg";
         private static string ConfigFileFullPath = Paths.ConfigPath + Path.DirectorySeparatorChar + ConfigFileName;
